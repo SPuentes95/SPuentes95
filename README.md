@@ -17,11 +17,11 @@
 
 I'm a **Biostatistician and Biomedical Engineer** with **7 years of experience** across pharmaceutical and clinical research. I specialize in **data science, analytics, machine learning, and AI applications for clinical trials and health informatics** — turning complex clinical and real-world data into insights that speed up research and improve decision-making.
 
-- 🔭 Currently working as a **Data Scientist at New York University**, building AI/LLM-powered workflows for automated medical and scientific summarization
+- 🔭 Currently looking for work!
 - 🎓 M.P.H. in Biostatistics from **New York University**
 - ⚙️ B.S. in Biomedical Engineering from **Universidad de los Andes**, Colombia
 - 🏆 Recipient of the **NYU Thesis Recognition Award** (2025)
-- 🌱 Background spans **IQVIA**, **Merck**, and **NYU**, working across clinical trial optimization, medical content analytics, and AI-assisted research
+- 🌱 Background spans **IQVIA**, **Merck**, and **NYU**, working across biostatistics, clinical trial optimization, medical content analytics, and AI-assisted research
 - 💬 Ask me about biostatistics, clinical trial analytics, ML for healthcare, or LLM applications in research
 - 🌐 Languages: English (fully proficient) • Spanish (native) • French (limited proficiency)
 
